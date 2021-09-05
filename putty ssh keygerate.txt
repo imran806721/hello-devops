@@ -1,0 +1,9 @@
+vi /etc/ssh/ssh_config
+vi authorized_keys
+chmod go-r authorized_keys
+
+
+
+
+ssh reload
+service ssh restart

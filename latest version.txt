@@ -1,0 +1,7 @@
+[root@ip-172-31-84-95 opt]# ls
+apache-ant-1.9.16              jdk-16.0.2
+apache-ant-1.9.16-bin.tar.gz   maven
+apache-maven-3.6.3             openjdk-16.0.2_linux-x64_bin.tar.gz
+apache-maven-3.6.3-bin.tar.gz  rh
+aws
+[root@ip-172-31-84-95 opt]#

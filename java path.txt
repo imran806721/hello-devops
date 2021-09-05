@@ -1,0 +1,3 @@
+eexport JAVA_HOME="path that you found"
+
+export PATH=$JAVA_HOME/bin:$PATH
